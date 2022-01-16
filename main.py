@@ -80,7 +80,7 @@ def sql_insertar_facturacion(con, data):
 
 def obtener_columnas_tablas(con, nombre_tabla):
     cursorObj = con.cursor()
-    cursorObj.execute("PRAGMA table_info('CLIENTE')")
+    cursorObj.execute("PRAGMA table_info('" + nombre_tabla+"')")
     rows = cursorObj.fetchall()
     field_list=[]
     for row in rows:
