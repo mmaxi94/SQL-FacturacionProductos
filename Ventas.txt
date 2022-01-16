@@ -1,0 +1,4 @@
+nombre_cliente|nombre_producto|cantidad|PrecioUnidad|PrecioTotal
+Duque, Julian|Té Dharamsala|19|18.0|342.0
+Suarez, Miguel|Té Dharamsala|14|18.0|252.0
+Hoyos, Adriana|Té Dharamsala|10|18.0|180.0

@@ -1,0 +1,22 @@
+ID Cliente|Apellido|Nombre
+1011|Sierra|Luisa
+1012|Duque|Julian
+1041|Gutierrez|Amalia
+1054|Suarez|Miguel
+1055|Hoyos|Adriana
+1056|Santana|Javier
+1067|Lemos|Dalia
+1068|Vergara|Amalia
+1075|Aristizabal|Natalia
+1076|Idarraga|Jorge
+1078|Cortes|Rafael
+1079|Perez|Elena
+1080|Bustos|Jacobo
+1152|Peláez|Alberto
+1153|Ramirez|Tomas
+1154|Pulgarin|Angelina
+1167|Arango|Juan
+1168|Lema|Maria
+1169|Castro|Monica
+0|pepe|asd|
+|pepito|asd
